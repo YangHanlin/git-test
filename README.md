@@ -1,8 +1,8 @@
 # README
 
-This is an example of how a README document looks like.
+This is an example of what a README document looks like.
 
-## How does it look like?
+## What does it look like?
 
 It looks like:
 
